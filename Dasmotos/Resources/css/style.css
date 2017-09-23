@@ -1,0 +1,45 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  color: khaki;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(/Users/loverbean22/Documents/Projects/Dasmotos/Resources/pattern.jpeg);
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  color:white;
+  font-weight: bold;
+}
+
+.Brushes {
+  background-color: mediumspringgreen;
+}
+
+.Frames {
+  background-color: lightcoral;
+}
+
+.Paint {
+  background-color: skyblue;
+}
+
+.BrushPrice {
+  font-family: helvetica;
+  color: blue;
+  font-weight: bold;
+}
+
+.FramePrice {
+  font-family: helvetica;
+  color: blue;
+  font-weight: bold;
+}
+
+.PaintPrice {
+  font-family: helvetica;
+  color: blue;
+  font-weight: bold;
+}
